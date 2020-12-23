@@ -8,6 +8,11 @@
   margin-top: 50px;
   text-align: center;
 
+  &-icon {
+    display: none;
+    margin: 1px;
+  }
+
   &-header {
     margin-bottom: 30px;
   }
